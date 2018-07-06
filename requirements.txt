@@ -9,7 +9,7 @@ django-markdownx==2.0.22
 environs==2.1.0
 Markdown==2.6.11
 Pillow==5.0.0
-psycopg2==2.7.4
+psycopg2==2.7.5
 pytz==2018.3
 waitress==1.1.0
 whitenoise==3.3.1
