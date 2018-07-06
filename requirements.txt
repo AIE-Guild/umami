@@ -6,7 +6,7 @@ django-bootstrap4==0.0.6
 django-concurrency==1.4
 django-debug-toolbar==1.9.1
 django-markdownx==2.0.22
-environs==2.1.0
+environs==2.1.1
 Markdown==2.6.11
 Pillow==5.0.0
 psycopg2==2.7.4
